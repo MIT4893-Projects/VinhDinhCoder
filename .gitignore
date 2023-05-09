@@ -1,0 +1,7 @@
+*.exe
+
+/CodeSnap/
+
+# Vscode files, folders
+.vscode/
+tempCodeRunner.*
